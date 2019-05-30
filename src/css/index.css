@@ -1,0 +1,9 @@
+@import '../../node_modules/tachyons/css/tachyons';
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-size: 16px;
+}
